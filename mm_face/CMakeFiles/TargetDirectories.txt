@@ -1,0 +1,3 @@
+/home/joezhu/opencv_P/mm_face/CMakeFiles/edit_cache.dir
+/home/joezhu/opencv_P/mm_face/CMakeFiles/rebuild_cache.dir
+/home/joezhu/opencv_P/mm_face/CMakeFiles/mm_facedetect.dir
